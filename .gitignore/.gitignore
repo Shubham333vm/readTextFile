@@ -13,13 +13,13 @@
             printf("Line %d: %s",i,message[i]);
             i++;
         }
- printf("%s",message[0]+10);
+ printf("%s",message[0]+10);  
  printf("%s",message[1]+10);
  printf("%s",message[2]+7);
  printf("%s",message[3]+11);
  printf("%s",message[4]+11);
  printf("%s",message[5]+11);
- printf("%s",message[6]+10);
+ printf("%s",message[6]+10);  //"rtsp://admin:admin@192.168.1.251:80"
  printf("%s",message[7]+10);
  printf("%s",message[8]+12);
  printf("%s",message[9]+19);
